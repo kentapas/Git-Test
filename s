@@ -1,0 +1,23 @@
+[33mcommit 4498d365c9120c05cdc74b9e6fd67131aeb3e3aa[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: elvinas grimm <elvinas.zaleskas@stud.techin.lt>
+Date:   Mon Nov 20 11:22:28 2023 +0200
+
+    Added style.css file, changed body background color
+
+[33mcommit c0ce8dfd7d10330a7b7fff1fbe54c1d293a22e06[m[33m ([m[1;32mmaster[m[33m)[m
+Author: elvinas grimm <elvinas.zaleskas@stud.techin.lt>
+Date:   Mon Nov 20 10:53:47 2023 +0200
+
+    Changed main.js file name to app.js
+
+[33mcommit b9549e64d8c7aefae1e48ecd1fb3b9eeec4bedbf[m
+Author: elvinas grimm <elvinas.zaleskas@stud.techin.lt>
+Date:   Mon Nov 20 10:37:06 2023 +0200
+
+    Added main.js for testing purposes
+
+[33mcommit 8cb9d0a0600a2083d7ead875dc7e7b7cb579d414[m
+Author: elvinas grimm <elvinas.zaleskas@stud.techin.lt>
+Date:   Mon Nov 20 09:47:38 2023 +0200
+
+    Initial commit
